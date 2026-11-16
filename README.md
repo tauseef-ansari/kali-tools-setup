@@ -32,13 +32,10 @@ Part of [PentestBlueprint](https://cybersecurity-blog.sayhi2tauseef.workers.dev/
 ### Option A — From this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY/Kali-Tools-Setup
+git clone https://github.com/tauseef-ansari/kali-tools-setup.git
+cd kali-tools-setup
 chmod +x kalitoolssetup.sh
 ./kalitoolssetup.sh
-```
-
-Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with the actual GitHub path. The script prompts for sudo privileges as needed.
 
 ### Option B — Already downloaded the script
 
