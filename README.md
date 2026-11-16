@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="kali-tools-banner.png"
+       alt="PentestBlueprint Kali Tools Setup"
+       width="100%">
+</p>
+
+<h1 align="center">Kali Tools Setup</h1>
+
+<p align="center">
+  Automated Kali Linux Environment Setup
+  for Penetration Testing & Active Directory Labs
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Kali_Linux-557C94?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-Bash-4EAA25?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Active_Directory-9CFF57?style=for-the-badge">
+</p>
+
 # Kali Tools Setup
 
 **A reproducible starter toolkit for Kali Linux pentesting labs.**
